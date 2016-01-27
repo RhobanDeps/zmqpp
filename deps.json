@@ -1,4 +1,7 @@
 {
     "name": "rhobandeps/zmqpp",
-    "includes": "src"
+    "includes": "src",
+    "deps": [
+        "rhobandeps/libzmq"
+    ]
 }
